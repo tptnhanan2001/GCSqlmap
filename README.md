@@ -1,1 +1,1 @@
-### Sqlmap Command Generator tool
+### Sqlmap Command Generator tool for Burp Suite
